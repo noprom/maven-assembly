@@ -2,7 +2,8 @@ package com.huntdreams.app;
 
 /**
  * App
- *
+ * Maven assembly package application.
+ * <p/>
  * Author: Noprom <tyee.noprom@qq.com>
  * Date: 5/4/16 11:35 PM.
  */
